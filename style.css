@@ -1,0 +1,17 @@
+p {
+    text-align: justify;
+}
+
+.boxedit {
+    background-color: rgb(236, 147, 115);
+
+}
+
+.btnedit {
+    color: black;
+    background-color: rgb(236, 147, 115);
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 3px;
+    padding: 2px 10px;
+}
